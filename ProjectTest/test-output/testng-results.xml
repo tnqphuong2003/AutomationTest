@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-02-27T14:56:14 CST" name="Default suite" finished-at="2025-02-27T14:56:19 CST" duration-ms="4660">
+    <groups>
+    </groups>
+    <test started-at="2025-02-27T14:56:14 CST" name="Default test" finished-at="2025-02-27T14:56:19 CST" duration-ms="4660">
+      <class name="automation.testsuite.TS_PracticeLocateElement">
+        <test-method is-config="true" signature="openBrowserTest()[pri:0, instance:automation.testsuite.TS_PracticeLocateElement@158d2680]" started-at="2025-02-27T14:56:14 CST" name="openBrowserTest" finished-at="2025-02-27T14:56:15 CST" duration-ms="1514" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowserTest -->
+        <test-method signature="locateById()[pri:0, instance:automation.testsuite.TS_PracticeLocateElement@158d2680]" started-at="2025-02-27T14:56:15 CST" name="locateById" finished-at="2025-02-27T14:56:15 CST" duration-ms="28" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- locateById -->
+        <test-method is-config="true" signature="openBrowserTest()[pri:0, instance:automation.testsuite.TS_PracticeLocateElement@158d2680]" started-at="2025-02-27T14:56:15 CST" name="openBrowserTest" finished-at="2025-02-27T14:56:17 CST" duration-ms="1557" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowserTest -->
+        <test-method signature="locateByName()[pri:0, instance:automation.testsuite.TS_PracticeLocateElement@158d2680]" started-at="2025-02-27T14:56:17 CST" name="locateByName" finished-at="2025-02-27T14:56:17 CST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- locateByName -->
+        <test-method is-config="true" signature="openBrowserTest()[pri:0, instance:automation.testsuite.TS_PracticeLocateElement@158d2680]" started-at="2025-02-27T14:56:17 CST" name="openBrowserTest" finished-at="2025-02-27T14:56:19 CST" duration-ms="1522" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowserTest -->
+        <test-method signature="locateByTagName()[pri:0, instance:automation.testsuite.TS_PracticeLocateElement@158d2680]" started-at="2025-02-27T14:56:19 CST" name="locateByTagName" finished-at="2025-02-27T14:56:19 CST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- locateByTagName -->
+      </class> <!-- automation.testsuite.TS_PracticeLocateElement -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
